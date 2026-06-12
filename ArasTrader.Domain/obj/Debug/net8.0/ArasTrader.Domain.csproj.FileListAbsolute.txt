@@ -1,0 +1,11 @@
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\bin\Debug\net8.0\ArasTrader.Domain.deps.json
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\bin\Debug\net8.0\ArasTrader.Domain.dll
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\bin\Debug\net8.0\ArasTrader.Domain.pdb
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\obj\Debug\net8.0\ArasTrader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\obj\Debug\net8.0\ArasTrader.Domain.AssemblyInfoInputs.cache
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\obj\Debug\net8.0\ArasTrader.Domain.AssemblyInfo.cs
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\obj\Debug\net8.0\ArasTrader.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\obj\Debug\net8.0\ArasTrader.Domain.dll
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\obj\Debug\net8.0\refint\ArasTrader.Domain.dll
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\obj\Debug\net8.0\ArasTrader.Domain.pdb
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Domain\obj\Debug\net8.0\ref\ArasTrader.Domain.dll

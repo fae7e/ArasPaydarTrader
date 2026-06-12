@@ -1,0 +1,15 @@
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\bin\Debug\net8.0\ArasTrader.Application.deps.json
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\bin\Debug\net8.0\ArasTrader.Application.dll
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\bin\Debug\net8.0\ArasTrader.Application.pdb
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\bin\Debug\net8.0\ArasTrader.Domain.dll
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\bin\Debug\net8.0\ArasTrader.Domain.pdb
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ArasTrader.Application.csproj.AssemblyReference.cache
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ArasTrader.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ArasTrader.Application.AssemblyInfoInputs.cache
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ArasTrader.Application.AssemblyInfo.cs
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ArasTrader.Application.csproj.CoreCompileInputs.cache
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ArasTrad.BB60420C.Up2Date
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ArasTrader.Application.dll
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\refint\ArasTrader.Application.dll
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ArasTrader.Application.pdb
+C:\Users\MHD\source\repos\ArasTrader\ArasTrader.Application\obj\Debug\net8.0\ref\ArasTrader.Application.dll

@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\MHD\\source\\repos\\ArasTrader\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382EBA0F-49DC-4D09-9E3F-FD482A230A34}|ArasTrader.Infrastructure\\ArasTrader.Infrastructure.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.infrastructure\\jobs\\walletupdatejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382EBA0F-49DC-4D09-9E3F-FD482A230A34}|ArasTrader.Infrastructure\\ArasTrader.Infrastructure.csproj|solutionrelative:arastrader.infrastructure\\jobs\\walletupdatejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|solutionrelative:arastrader.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\gateway\\ordergatewaypipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\gateway\\ordergatewaypipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\gateway\\handlers\\logginggatewayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\gateway\\handlers\\logginggatewayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\endpoints\\order\\getorderendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\endpoints\\order\\getorderendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382EBA0F-49DC-4D09-9E3F-FD482A230A34}|ArasTrader.Infrastructure\\ArasTrader.Infrastructure.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.infrastructure\\persistence\\repositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382EBA0F-49DC-4D09-9E3F-FD482A230A34}|ArasTrader.Infrastructure\\ArasTrader.Infrastructure.csproj|solutionrelative:arastrader.infrastructure\\persistence\\repositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382EBA0F-49DC-4D09-9E3F-FD482A230A34}|ArasTrader.Infrastructure\\ArasTrader.Infrastructure.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.infrastructure\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382EBA0F-49DC-4D09-9E3F-FD482A230A34}|ArasTrader.Infrastructure\\ArasTrader.Infrastructure.csproj|solutionrelative:arastrader.infrastructure\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945CDA4D-1FBC-4CF2-A61B-844450F5F162}|ArasTrader.Domain\\ArasTrader.Domain.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945CDA4D-1FBC-4CF2-A61B-844450F5F162}|ArasTrader.Domain\\ArasTrader.Domain.csproj|solutionrelative:arastrader.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\endpoints\\wallet\\getwalletendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\endpoints\\wallet\\getwalletendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\gateway\\handlers\\validationgatewayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\gateway\\handlers\\validationgatewayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\endpoints\\order\\placeorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\endpoints\\order\\placeorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|solutionrelative:arastrader.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|solutionrelative:arastrader.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\gateway\\abstractions\\iordergatewayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\gateway\\abstractions\\iordergatewayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.application\\services\\walletqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|solutionrelative:arastrader.application\\services\\walletqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.web.api\\endpoints\\customer\\getcustomersendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B2B7FA-F073-4CB3-BCB4-ED8A34537817}|ArasTrader.Web.Api\\ArasTrader.Web.Api.csproj|solutionrelative:arastrader.web.api\\endpoints\\customer\\getcustomersendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.application\\services\\customersyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|solutionrelative:arastrader.application\\services\\customersyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|c:\\users\\mhd\\source\\repos\\arastrader\\arastrader.application\\interfaces\\iwalletqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A91FAD8-50EA-48F3-9E4C-E4BDFDA48F26}|ArasTrader.Application\\ArasTrader.Application.csproj|solutionrelative:arastrader.application\\interfaces\\iwalletqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1658443285:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAACwBAAAAAAAAAAAAADcBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-12T22:08:52.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Dockerfile",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-12T21:11:06.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalletUpdateJob.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Infrastructure\\Jobs\\WalletUpdateJob.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Infrastructure\\Jobs\\WalletUpdateJob.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Infrastructure\\Jobs\\WalletUpdateJob.cs",
+              "RelativeToolTip": "ArasTrader.Infrastructure\\Jobs\\WalletUpdateJob.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T19:34:10.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderGatewayPipeline.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Gateway\\OrderGatewayPipeline.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Gateway\\OrderGatewayPipeline.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Gateway\\OrderGatewayPipeline.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Gateway\\OrderGatewayPipeline.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA8wBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:26:17.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "ArasTrader.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:21:22.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggingGatewayHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Gateway\\Handlers\\LoggingGatewayHandler.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Gateway\\Handlers\\LoggingGatewayHandler.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Gateway\\Handlers\\LoggingGatewayHandler.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Gateway\\Handlers\\LoggingGatewayHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:26:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetOrderEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Endpoints\\Order\\GetOrderEndpoint.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Endpoints\\Order\\GetOrderEndpoint.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Endpoints\\Order\\GetOrderEndpoint.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Endpoints\\Order\\GetOrderEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T19:13:42.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WalletRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Infrastructure\\Persistence\\Repositories\\WalletRepository.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Infrastructure\\Persistence\\Repositories\\WalletRepository.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Infrastructure\\Persistence\\Repositories\\WalletRepository.cs",
+              "RelativeToolTip": "ArasTrader.Infrastructure\\Persistence\\Repositories\\WalletRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:09:55.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "ArasTrader.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wDgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T20:24:24.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Program.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAEwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T19:08:40.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T20:46:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ArasTrader.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T20:26:46.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetWalletEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Endpoints\\Wallet\\GetWalletEndpoint.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Endpoints\\Wallet\\GetWalletEndpoint.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Endpoints\\Wallet\\GetWalletEndpoint.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Endpoints\\Wallet\\GetWalletEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:06:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationGatewayHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Gateway\\Handlers\\ValidationGatewayHandler.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Gateway\\Handlers\\ValidationGatewayHandler.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Gateway\\Handlers\\ValidationGatewayHandler.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Gateway\\Handlers\\ValidationGatewayHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:53:18.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlaceOrderRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Endpoints\\Order\\PlaceOrderRequestDto.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Endpoints\\Order\\PlaceOrderRequestDto.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Endpoints\\Order\\PlaceOrderRequestDto.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Endpoints\\Order\\PlaceOrderRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T19:21:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "ArasTrader.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:06:34.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderGatewayHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Gateway\\Abstractions\\IOrderGatewayHandler.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Gateway\\Abstractions\\IOrderGatewayHandler.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Gateway\\Abstractions\\IOrderGatewayHandler.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Gateway\\Abstractions\\IOrderGatewayHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:27:20.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "ArasTrader.Application\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:20:22.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetCustomersEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Endpoints\\Customer\\GetCustomersEndpoint.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Web.Api\\Endpoints\\Customer\\GetCustomersEndpoint.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Web.Api\\Endpoints\\Customer\\GetCustomersEndpoint.cs",
+              "RelativeToolTip": "ArasTrader.Web.Api\\Endpoints\\Customer\\GetCustomersEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:59:24.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WalletQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Services\\WalletQueryService.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Application\\Services\\WalletQueryService.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Services\\WalletQueryService.cs",
+              "RelativeToolTip": "ArasTrader.Application\\Services\\WalletQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:08:44.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IWalletQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Interfaces\\IWalletQueryService.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Application\\Interfaces\\IWalletQueryService.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Interfaces\\IWalletQueryService.cs",
+              "RelativeToolTip": "ArasTrader.Application\\Interfaces\\IWalletQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:07:52.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerSyncService.cs",
+              "DocumentMoniker": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Services\\CustomerSyncService.cs",
+              "RelativeDocumentMoniker": "ArasTrader.Application\\Services\\CustomerSyncService.cs",
+              "ToolTip": "C:\\Users\\MHD\\source\\repos\\ArasTrader\\ArasTrader.Application\\Services\\CustomerSyncService.cs",
+              "RelativeToolTip": "ArasTrader.Application\\Services\\CustomerSyncService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:51:01.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
